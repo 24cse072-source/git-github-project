@@ -1,2 +1,4 @@
 # git-github-project
-final project for coursera git &amp; github course
+
+This project is created for the Coursera "Getting Started with Git and GitHub" course final assignment.
+
